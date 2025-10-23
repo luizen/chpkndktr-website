@@ -1,3 +1,3 @@
 # chpkndktr-website
 
-CHPKNDKTR's website contents
+CHPKNDKTR's website contents.
